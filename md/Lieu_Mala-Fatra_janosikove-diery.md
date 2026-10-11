@@ -4,6 +4,8 @@ type: rando
 famille-ok: moyen
 étapes-candidates: Mala-Fatra
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Janosikove_diery,_Mala_Fatra_(agost_2012)_-_panoramio.jpg | Jánošíkove diery, Malá Fatra
+
 # rando (durée: 3h30-4h30, difficulté: moyen, balisage: gorges équipées)
 accès: départ Štefanová
 
