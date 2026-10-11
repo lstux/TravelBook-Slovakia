@@ -4,6 +4,8 @@ type: village-patrimoine
 famille-ok: facile
 étapes-candidates: Route-Bratislava-Banska
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia_Trnava_Town_Hall.jpg | Hôtel de ville de Trnava
+
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Trnava+old+town
 + notre avis: une ville à taille humaine, parfaite pour une balade sans programme. Vieilles rues, petites places et églises à chaque coin, d'où le surnom de « Vatican slovaque ». Il reste aussi des morceaux de remparts. Comptez une heure, plus si vous vous arrêtez pour un café.
 ~ Trnava je mesto s veľa kostolmi a je ideálne na pokojnú prechádzku po starých uliciach a okolo hradieb.
