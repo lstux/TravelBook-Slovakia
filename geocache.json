@@ -1,0 +1,162 @@
+{
+  "Etape_Banska-Stiavnica": [
+    48.4585,
+    18.8969
+  ],
+  "Etape_Bratislava": [
+    48.1486,
+    17.1077
+  ],
+  "Etape_Kosice": [
+    48.7164,
+    21.2611
+  ],
+  "Etape_Liptov": [
+    49.0819,
+    19.6152
+  ],
+  "Etape_Mala-Fatra": [
+    49.2464,
+    19.0142
+  ],
+  "Etape_Slovensky-raj": [
+    48.9309,
+    20.4128
+  ],
+  "Etape_Spis": [
+    49.0247,
+    20.5883
+  ],
+  "Etape_Tatry": [
+    49.1397,
+    20.1875
+  ],
+  "Lieu_Banska-Stiavnica_akademia": null,
+  "Lieu_Banska-Stiavnica_kalvaria": [
+    48.4617675,
+    18.9139525
+  ],
+  "Lieu_Banska-Stiavnica_mine": null,
+  "Lieu_Banska-Stiavnica_namestie": [
+    48.459779,
+    18.8925207
+  ],
+  "Lieu_Banska-Stiavnica_novy-zamok": [
+    48.4595334,
+    18.8909934
+  ],
+  "Lieu_Banska-Stiavnica_sitno": [
+    48.4021405,
+    18.8820847
+  ],
+  "Lieu_Banska-Stiavnica_stiavnicke-bane": [
+    48.441507,
+    18.8827203
+  ],
+  "Lieu_Banska-Stiavnica_tajchy": null,
+  "Lieu_Bratislava_danube": [
+    48.0404112,
+    17.210848
+  ],
+  "Lieu_Bratislava_devin": [
+    48.1745864,
+    16.9826096
+  ],
+  "Lieu_Bratislava_devin-bateau": null,
+  "Lieu_Bratislava_hrad": [
+    48.1425867,
+    17.1004695
+  ],
+  "Lieu_Bratislava_male-karpaty": [
+    48.1844458,
+    17.0147605
+  ],
+  "Lieu_Bratislava_pezinok": [
+    48.2854539,
+    17.270194
+  ],
+  "Lieu_Bratislava_slavin": [
+    48.1539021,
+    17.0995869
+  ],
+  "Lieu_Bratislava_soiree": null,
+  "Lieu_Bratislava_stare-mesto": [
+    48.1405887,
+    17.1123274
+  ],
+  "Lieu_Kosice_cathedrale": [
+    48.7202696,
+    21.2582156
+  ],
+  "Lieu_Kosice_hlavna-fontaine": null,
+  "Lieu_Kosice_hrncarska": null,
+  "Lieu_Kosice_kulturpark": [
+    48.7137463,
+    21.2562619
+  ],
+  "Lieu_Kosice_musee-tresor": null,
+  "Lieu_Kosice_urban-tower": [
+    48.7206559,
+    21.2581581
+  ],
+  "Lieu_Liptov_demanovska": null,
+  "Lieu_Liptov_havranok": [
+    49.104722,
+    19.481667
+  ],
+  "Lieu_Liptov_mara": null,
+  "Lieu_Liptov_prosiecka-kvacianska": null,
+  "Lieu_Liptov_ruzomberok-mikulas": null,
+  "Lieu_Liptov_vlkolinec": null,
+  "Lieu_Mala-Fatra_crete": null,
+  "Lieu_Mala-Fatra_evenement": null,
+  "Lieu_Mala-Fatra_janosikove-diery": null,
+  "Lieu_Mala-Fatra_maly-rozsutec": null,
+  "Lieu_Mala-Fatra_strecno": null,
+  "Lieu_Mala-Fatra_terchova": null,
+  "Lieu_Mala-Fatra_tiesnavy": null,
+  "Lieu_Mala-Fatra_velky-rozsutec": null,
+  "Lieu_Mala-Fatra_vratna": null,
+  "Lieu_Slovensky-raj_chmarossky-viadukt": null,
+  "Lieu_Slovensky-raj_dobsinska": null,
+  "Lieu_Slovensky-raj_geravy": null,
+  "Lieu_Slovensky-raj_klastorisko": null,
+  "Lieu_Slovensky-raj_palcmanska-masa": null,
+  "Lieu_Slovensky-raj_piecky": null,
+  "Lieu_Slovensky-raj_prielom-hornadu": null,
+  "Lieu_Slovensky-raj_sucha-bela": null,
+  "Lieu_Slovensky-raj_tomasovsky-vyhlad": null,
+  "Lieu_Spis_basilique": null,
+  "Lieu_Spis_drevenik": null,
+  "Lieu_Spis_kapitula": null,
+  "Lieu_Spis_levoca": null,
+  "Lieu_Spis_marianska-hora": null,
+  "Lieu_Spis_remparts": null,
+  "Lieu_Spis_siva-brada": null,
+  "Lieu_Spis_spissky-hrad": null,
+  "Lieu_Spis_zehra": null,
+  "Lieu_Tatry_hrebienok": [
+    49.1585567,
+    20.2246506
+  ],
+  "Lieu_Tatry_lomnica": [
+    49.1645786,
+    20.280602
+  ],
+  "Lieu_Tatry_lomnicky-stit": [
+    49.1951431,
+    20.2130329
+  ],
+  "Lieu_Tatry_popradske-pleso": [
+    49.1532533,
+    20.0796649
+  ],
+  "Lieu_Tatry_skalnate-pleso": [
+    49.188554,
+    20.2320891
+  ],
+  "Lieu_Tatry_strbske-pleso": [
+    49.1295731,
+    20.0539628
+  ]
+}

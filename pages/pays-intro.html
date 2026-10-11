@@ -1,0 +1,219 @@
+<!--
+  pages/pays-intro.html
+  ------------------------------------------------------------------
+  Fragment HTML écrit à la main (pas de fiche .md, pas de moteur TMD).
+  Copié tel quel par tmd2html.py en tête de html/pays.html, via
+  render_pays() -> read_static_fragment("pays-intro.html").
+
+  Pourquoi en dur : ce contenu ne bougera pour ainsi dire jamais, et le
+  rendu visuel voulu (hero plein écran, cartes, mini-carte décorative)
+  est plus fin à la main qu'à travers le rendu générique des fiches.
+
+  Chemins relatifs : ce fragment est inséré dans html/pays.html, donc
+  les chemins d'images/liens ci-dessous sont relatifs à html/, comme
+  partout ailleurs sur le site (ex. "carnet.html", "../img/...").
+  ------------------------------------------------------------------
+-->
+<section class="hero-intro" style="background-image: linear-gradient(180deg, rgba(28,50,39,.05) 20%, rgba(28,50,39,.88) 100%), url('https://commons.wikimedia.org/wiki/Special:FilePath/Vysok%C3%A9%20Tatry%2C%20Nov%C3%A9%20%C5%A0trbsk%C3%A9%20pleso.JPG')">
+  <div class="hero-copy">
+    <div class="hero-kicker">Carnet de voyage · été 2027</div>
+    <h1>Et si on partait<br>en Slovaquie&nbsp;?</h1>
+    <p class="lead">
+      Des montagnes qui ressemblent aux Alpes, des lacs, des châteaux,
+      des gorges avec des échelles, des sources chaudes… et beaucoup
+      moins de monde. Le tout dans un pays à taille humaine.
+    </p>
+  </div>
+</section>
+
+<section class="intro-section">
+  <h2 class="intro-title">Le pitch en quelques mots</h2>
+  <p class="intro-subtitle">
+    Quatre familles d'expériences qui se croisent rarement aussi bien
+    sur un format de voyage aussi court : la montagne, l'aventure
+    douce, les villes historiques et la détente en pleine nature.
+  </p>
+
+  <div class="reasons">
+    <article class="reason">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/059%2085%20Vysok%C3%A9%20Tatry-%C5%A0trbsk%C3%A9%20Pleso%2C%20Slovakia%20-%20panoramio%20(1).jpg" alt="Štrbské Pleso, lac glaciaire des Hautes Tatras">
+      <div class="reason-copy">
+        <div class="reason-number">01</div>
+        <h3>Des vraies montagnes.</h3>
+        <p>Des sommets alpins, des lacs glaciaires, des cascades et des balades de tous niveaux — sans transformer chaque journée en expédition.</p>
+      </div>
+    </article>
+
+    <article class="reason">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Velky%20Kysel-zebriky.jpg" alt="Échelles dans une gorge du Slovenský raj">
+      <div class="reason-copy">
+        <div class="reason-number">02</div>
+        <h3>De l'aventure.</h3>
+        <p>Des gorges, des passerelles, des échelles et des rivières, dans des endroits où la balade ressemble franchement à un niveau de jeu vidéo.</p>
+      </div>
+    </article>
+
+    <article class="reason">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0utovsk%C3%A9%20jazero%20-%20panoramio.jpg" alt="Le lac turquoise de Šútovo/Kraľovany, sur la route entre les étapes">
+      <div class="reason-copy">
+        <div class="reason-number">03</div>
+        <h3>Et pour souffler un peu.</h3>
+        <p>Des lacs de montagne où se baigner, des rivières fraîches et, ici ou là, une source chaude — pour les journées où huit heures de dénivelé ne sont pas au programme.</p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="intro-section">
+  <div class="card">
+    <div class="label">Ce qui est malin</div>
+    <p>
+      On peut alterner <strong>grosse journée dehors</strong> et <strong>journée tranquille</strong>.
+      Et on ne choisit pas entre nature, aventure, jolies villes et baignade :
+      la Slovaquie permet de faire les quatre dans le même voyage.
+    </p>
+  </div>
+
+  <div class="family-grid">
+    <div class="family-card">
+      <div class="emoji">🥾</div>
+      <strong>Randos</strong>
+      <p>De la promenade familiale au vrai défi montagne.</p>
+    </div>
+    <div class="family-card">
+      <div class="emoji">🧗</div>
+      <strong>Aventure</strong>
+      <p>Gorges, échelles, passerelles et petites sensations.</p>
+    </div>
+    <div class="family-card">
+      <div class="emoji">💦</div>
+      <strong>Baignade</strong>
+      <p>Lacs de montagne et sources chaudes pour récupérer entre deux étapes actives.</p>
+    </div>
+    <div class="family-card">
+      <div class="emoji">🏰</div>
+      <strong>Villes &amp; patrimoine</strong>
+      <p>Châteaux, vieilles villes et villages en bois entre deux étapes.</p>
+    </div>
+  </div>
+</section>
+
+<section class="intro-section">
+  <h2 class="intro-title">Et aussi, deux villes</h2>
+  <p class="intro-subtitle">
+    Le voyage n'est pas que montagnes et forêts — deux étapes urbaines
+    viennent casser le rythme.
+  </p>
+
+  <div class="reasons cities">
+    <article class="reason">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%20(Pressburg%2C%20Pozsony)%20-%20panorama.jpg" alt="Bratislava : le château et la vieille ville au bord du Danube">
+      <div class="reason-copy">
+        <div class="reason-number">01</div>
+        <h3>Bratislava</h3>
+        <p>Une capitale à taille humaine, coincée entre le Danube et son château — se visite tranquillement en une demi-journée.</p>
+      </div>
+    </article>
+
+    <article class="reason">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kosice%20(Slovakia)%20-%20St.%20Elizabeth%27s%20Catedral%202.jpg" alt="La cathédrale Sainte-Élisabeth de Košice">
+      <div class="reason-copy">
+        <div class="reason-number">02</div>
+        <h3>Košice</h3>
+        <p>La deuxième ville du pays, avec la plus longue rue piétonne d'Europe centrale et une cathédrale gothique en plein milieu.</p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="intro-section">
+  <h2 class="intro-title">Géographie</h2>
+  <p class="intro-subtitle">
+    Un petit pays montagneux d'Europe centrale, pris en sandwich entre
+    cinq voisins — de quoi donner une idée de l'échelle avant de partir.
+  </p>
+
+  <div class="geo-stats">
+    <div class="geo-stat">
+      <div class="geo-stat-value">49 035 km²</div>
+      <div class="geo-stat-label">Superficie</div>
+      <div class="geo-stat-note">≈ la région Bourgogne-Franche-Comté</div>
+    </div>
+    <div class="geo-stat">
+      <div class="geo-stat-value">5,4 M</div>
+      <div class="geo-stat-label">Habitants</div>
+      <div class="geo-stat-note">densité proche de la France</div>
+    </div>
+    <div class="geo-stat">
+      <div class="geo-stat-value">2 655 m</div>
+      <div class="geo-stat-label">Point culminant</div>
+      <div class="geo-stat-note">Gerlachovský štít, Hautes Tatras</div>
+    </div>
+    <div class="geo-stat">
+      <div class="geo-stat-value">5</div>
+      <div class="geo-stat-label">Pays voisins</div>
+      <div class="geo-stat-note">Tchéquie, Pologne, Ukraine, Hongrie, Autriche</div>
+    </div>
+    <div class="geo-stat">
+      <div class="geo-stat-value">€</div>
+      <div class="geo-stat-label">Monnaie</div>
+      <div class="geo-stat-note">euro depuis 2009</div>
+    </div>
+    <div class="geo-stat">
+      <div class="geo-stat-value">UTC+1</div>
+      <div class="geo-stat-label">Fuseau horaire</div>
+      <div class="geo-stat-note">la même heure qu'en France</div>
+    </div>
+  </div>
+
+  <figure>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia%20general%20relief%20map.svg" alt="Carte du relief de la Slovaquie">
+    <figcaption>Montagnes au centre et au nord, plaines le long du Danube au sud-ouest</figcaption>
+  </figure>
+
+  <div class="narrative">
+    <h3 class="narrative-heading">Relief et rivières</h3>
+    <p>Les Carpates occidentales traversent tout le pays d'ouest en est : les Petites Carpates près de Bratislava, les Basses puis les Hautes Tatras au centre, les Monts métallifères slovaques (Slovenské rudohorie) à l'est. Au sud-ouest, la plaine du Danube (Žitný ostrov) et à l'est la plaine slovaque orientale forment les seules grandes zones plates du pays.</p>
+    <p>Le Danube longe la frontière sud sur quelques kilomètres à Bratislava avant de filer vers la Hongrie. Les principales rivières intérieures — Váh, Hron, Hornád — descendent toutes des Carpates vers le Danube.</p>
+  </div>
+
+  <div class="narrative">
+    <h3 class="narrative-heading">Un climat plus contrasté qu'en France</h3>
+    <p>Climat continental : étés chauds (30 °C n'est pas rare en juillet-août dans les plaines), hivers froids et neigeux en montagne. L'écart entre les saisons est plus marqué qu'en France métropolitaine — moins d'influence océanique pour adoucir les extrêmes.</p>
+  </div>
+
+  <div class="card">
+    <div class="label">Comparaison avec la France</div>
+    <p>La Slovaquie tient presque exactement dans la région Bourgogne-Franche-Comté, mais avec presque deux fois plus d'habitants au km² qu'on pourrait s'y attendre — sa densité de population est en réalité très proche de la moyenne française.</p>
+    <p>Traverser le pays d'un bout à l'autre (Bratislava → Košice, environ 400 km) prend à peu près le même temps de route qu'un Paris–Lyon. Le point culminant, le Gerlachovský štít (2 655 m), est bien plus bas que le Mont Blanc (4 809 m) — mais avec des lacs glaciaires et des parois abruptes qui donnent une impression bien plus alpine que son altitude ne le laisse penser.</p>
+  </div>
+</section>
+
+<section class="intro-section">
+  <h2 class="intro-title">L'idée d'itinéraire</h2>
+  <p class="intro-subtitle">
+    Quelques bases bien choisies plutôt qu'une collection de points à
+    cocher — traverser le pays sans courir.
+  </p>
+  <!-- CARTE_ITINERAIRE -->
+</section>
+
+<section class="culture-bonus">
+  <h2 class="intro-title">Bonus culturel</h2>
+  <p>
+    Et puis il y a le côté « on va vraiment ailleurs ». Une langue,
+    des noms imprononçables au début, une cuisine différente, une histoire
+    qui a changé plusieurs fois de visage en un siècle… mais un pays suffisamment
+    proche pour que le voyage reste simple.
+  </p>
+  <div class="speakable">Dobrý deň! Vitajte na Slovensku!</div>
+</section>
+
+<section class="cta">
+  <h2>On regarde ce que ça donnerait ?</h2>
+  <p>
+    Pas besoin de trancher tout de suite. Le carnet détaille les étapes,
+    les activités et le budget, étape par étape.
+  </p>
+  <a class="cta-button" href="carnet.html">Ouvrir le carnet</a>
+</section>

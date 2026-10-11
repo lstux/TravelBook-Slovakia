@@ -1,0 +1,9 @@
+# Rapports générés par geocode.py et fetch_images.py (regénérables)
+*-a-completer.md
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

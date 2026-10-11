@@ -1,0 +1,8 @@
+Etape_Bratislava
+Etape_Banska-Stiavnica
+Etape_Mala-Fatra
+Etape_Liptov
+Etape_Tatry
+Etape_Spis
+Etape_Slovensky-raj
+Etape_Kosice
