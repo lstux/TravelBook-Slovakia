@@ -1,6 +1,6 @@
 # Carnet Slovaquie — données
 
-Données du carnet de voyage Slovaquie (Poznávačka). Dépôt privé : il est lu par le moteur [TravelBook](https://github.com/lstux/TravelBook), qui n'est pas ici.
+Carnet de voyage Slovaquie (Poznávačka) : étapes, lieux, hébergements, tables, spécialités et repères culturels pour un road-trip en famille entre Vienne, la Slovaquie et Budapest. Ce dépôt ne contient que les données ; il est lu par le moteur [TravelBook](https://github.com/lstux/TravelBook), qui n'est pas ici.
 
 ## Contenu
 

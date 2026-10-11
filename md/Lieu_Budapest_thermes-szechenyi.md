@@ -7,7 +7,7 @@ famille-ok: facile
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Sz%C3%A9chenyibad.JPG | Bains thermaux Széchenyi
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Sz%C3%A9chenyi+Thermal+Bath
-+ notre avis: LE moment détente du séjour — trois bassins extérieurs, eau à 27-38°C selon le bassin, ouverts toute l'année (oui, même sous la neige en hiver, effet garanti). Prévoir maillots, bonnet de bain parfois exigé en intérieur, et serviettes (location possible sur place). Bassin peu profond disponible, adapté à un enfant qui sait déjà un peu nager ou avec brassards.
++ notre avis: LE moment détente du séjour — trois bassins extérieurs, eau à 27-38°C selon le bassin, ouverts toute l'année (oui, même sous la neige en hiver, effet garanti). Prévoir maillots, bonnet de bain parfois exigé en intérieur, et serviettes (location possible sur place). Bassin peu profond disponible, adapté aux enfants qui savent déjà un peu nager ou avec brassards.
 + Affluence: le matin en semaine est nettement plus calme que l'après-midi et le week-end ; les casiers/cabines se paient en plus de l'entrée.
 
 ! anecdote

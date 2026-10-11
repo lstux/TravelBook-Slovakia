@@ -7,7 +7,7 @@ famille-ok: facile
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20-%20Great%20Market%20Hall%20%28Nagyv%C3%A1s%C3%A1rcsarnok%29.jpg | La Grande halle du marché, Budapest
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Great+Market+Hall+Budapest
-+ notre avis: le meilleur endroit pour goûter la Hongrie sans réserver de table — paprika en tous formats, charcuteries, langos (galette frite, garniture au choix) à l'étage pour un déjeuner sur le pouce, parfait avec un enfant qui ne tient pas en place à table. Rez-de-chaussée pour les produits frais et souvenirs, étage pour manger.
++ notre avis: le meilleur endroit pour goûter la Hongrie sans réserver de table — paprika en tous formats, charcuteries, langos (galette frite, garniture au choix) à l'étage pour un déjeuner sur le pouce, parfait avec des enfants qui ne tiennent pas en place à table. Rez-de-chaussée pour les produits frais et souvenirs, étage pour manger.
 + Astuce famille: éviter le samedi matin, bondé ; en semaine en fin de matinée, c'est nettement plus respirable pour circuler avec une poussette.
 
 ! anecdote

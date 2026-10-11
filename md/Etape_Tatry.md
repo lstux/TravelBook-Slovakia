@@ -7,7 +7,7 @@ trajet-depuis-précédente: étape: Liptov
 @ https://commons.wikimedia.org/wiki/Special:FilePath/High%20tatras%20slovakia.jpg | Hautes Tatras en Slovaquie
 
 + intro: On entre dans le décor le plus alpin du voyage. L'idée n'est pas de chercher à multiplier les sommets, mais de profiter de plusieurs ambiances : lac glaciaire, forêt, cascades, refuges, téléphériques et grands panoramas. Vrai bloc montagne + nature, environ 3 jours pleins.
-~ Vysoké Tatry ponúkajú plesá, lesy, vodopády, horské chaty, lanovky a veľké panorámy. Na našu cestu by som počítal približne s 3 plnými dňami.
+~ Vysoké Tatry ponúkajú plesá, lesy, vodopády, horské chaty, lanovky a veľké panorámy. Na túto cestu odporúčame približne 3 plné dni.
 
 == Jour A · Štrbské Pleso
 -> Lieu_Tatry_strbske-pleso
