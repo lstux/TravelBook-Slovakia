@@ -15,6 +15,6 @@ Les rapports générés (`*-a-completer.md`) ne sont pas versionnés : ils se re
 
 ## Utilisation
 
-Le moteur lit ce dépôt depuis `data/` (clone local) ou depuis le chemin donné par `CARNET_DATA`. Voir le README du moteur.
+Le moteur lit ce dépôt depuis `data/` (clone local), ou depuis le chemin donné par `--data DIR` ou `CARNET_DATA`. Voir le README du moteur.
 
 Le format des fiches est décrit dans `docs/format-tmd.md` du moteur.
