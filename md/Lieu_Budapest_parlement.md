@@ -11,4 +11,4 @@ famille-ok: facile
 + Visite intérieure: billet daté obligatoire, à réserver en ligne quelques jours à l'avance en haute saison ; avec de jeunes enfants, la vue extérieure suffit largement.
 
 ! anecdote
-Avec ses 96 mètres de hauteur, le Parlement hongrois a été construit exactement à cette cote en écho symbolique à l'année 896, date de l'arrivée des tribus magyares dans le bassin des Carpates — le chiffre 96 revient d'ailleurs aussi dans la hauteur de la basilique Saint-Étienne toute proche, par accord tacite pour qu'aucun bâtiment ne dépasse l'autre.
+Avec ses 96 mètres de hauteur, le Parlement hongrois a été construit exactement à cette cote en écho symbolique à l'année 896, date de l'arrivée des tribus magyares dans le bassin des Carpates — le chiffre 96 revient d'ailleurs aussi dans la hauteur de la basilique Saint-Étienne toute proche, la règle voulant qu'aucun bâtiment de la ville ne dépasse cette hauteur.

@@ -11,4 +11,4 @@ famille-ok: moyen
 + famille-ok "moyen": pavés inégaux, quelques escaliers si on ne prend pas le funiculaire — praticable avec des enfants qui marchent bien, plus délicat en poussette.
 
 ! anecdote
-Le palais actuel n'est qu'une reconstruction : rasé aux trois quarts lors du siège de Budapest en 1944-45, il a été rebâti dans un style simplifié pendant l'ère communiste, sans les flèches et ornements baroques d'origine — un choix esthétique encore débattu aujourd'hui par les historiens de l'architecture hongroise.
+Le palais actuel n'est qu'une reconstruction : très largement détruit par les bombes et les incendies lors du siège de Budapest en 1944-45, il a été reconstruit après la guerre dans un style plus sobre que l'original.

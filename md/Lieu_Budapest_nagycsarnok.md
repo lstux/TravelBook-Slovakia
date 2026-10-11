@@ -11,4 +11,4 @@ famille-ok: facile
 + Astuce famille: éviter le samedi matin, bondé ; en semaine en fin de matinée, c'est nettement plus respirable pour circuler avec une poussette.
 
 ! anecdote
-Inaugurée en 1897 par l'empereur François-Joseph Ier lui-même, la halle a été l'une des premières structures métalliques de cette ampleur en Europe centrale, avec une charpente en partie fabriquée par les usines Eiffel — un cousinage discret avec la tour parisienne, pour un marché qui reste aujourd'hui le plus grand et le plus ancien de Budapest encore en activité.
+Ouverte en 1897 sur les plans de l'architecte Samu Pecz, la halle est un grand édifice à charpente métallique sous un toit de tuiles colorées, pour un marché qui reste aujourd'hui le plus grand et le plus ancien de Budapest encore en activité.
