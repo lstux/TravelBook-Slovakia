@@ -4,6 +4,8 @@ type: rando
 famille-ok: moyen
 étapes-candidates: Mala-Fatra
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mal%C3%A1_Fatra_-_panorama_by_Pudelek.jpg | Panorama de la Malá Fatra
+
 # rando (dénivelé: 1708.7m)
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Vratna+Valley+Slovakia
