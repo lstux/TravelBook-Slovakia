@@ -4,6 +4,8 @@ type: rando
 famille-ok: à-éviter
 étapes-candidates: Mala-Fatra
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mala_Fatra_Wielki_Rozsutec.JPG | Veľký Rozsutec, Malá Fatra
+
 # rando (dénivelé: 1609.7m, difficulté: difficile)
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Velky+Rozsutec+Slovakia
