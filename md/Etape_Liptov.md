@@ -35,7 +35,7 @@ trajet-depuis-précédente: étape: Malá Fatra
 ~ Môj gastronomický plán: bryndza a žinčica, potom jedno regionálne jedlo odlišné od halušiek.
 
 + Météo: garder la journée randonnée flexible. Si les conditions sont mauvaises, Vlkolínec + Havránok + grotte constituent une excellente journée de remplacement.
-+ Voiture: Liptov est très facile à rayonner en voiture, ce qui rend cette étape particulièrement compatible avec notre projet de location.
++ Voiture: Liptov est très facile à rayonner en voiture, ce qui rend cette étape particulièrement compatible avec une voiture de location.
 + En famille: Vlkolínec et Liptovská Mara sont très faciles à moduler. Pour Prosiecka/Kvačianska, on choisira la longueur en fonction de la forme du jour.
 ~ Liptov je autom veľmi dobre dostupný. Vlkolínec a Liptovská Mara sú ľahko prispôsobiteľné pre rodinu.
 
