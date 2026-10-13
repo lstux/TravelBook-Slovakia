@@ -2,6 +2,7 @@ titre: Dobšinská ľadová jaskyňa
 région: Slovensky-raj
 type: grotte
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Dob%C5%A1insk%C3%A1%20Ice%20Cave009.jpg | Grotte de glace de Dobšiná

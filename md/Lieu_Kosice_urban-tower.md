@@ -2,6 +2,7 @@ titre: Tour Urban & chapelle Saint-Michel
 région: Kosice
 type: point-de-vue
 famille-ok: facile
+durée-visite: 30min
 étapes-candidates: Kosice
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%A1ice_-_Urbanova_ve%C5%BEa.jpg | Tour Urbanova, Košice

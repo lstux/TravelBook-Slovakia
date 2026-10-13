@@ -2,6 +2,7 @@ titre: Žehra
 région: Spis
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 45min
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Zehra15Slovakia3.JPG | Žehra

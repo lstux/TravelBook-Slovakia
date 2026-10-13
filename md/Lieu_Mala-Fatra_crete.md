@@ -2,6 +2,7 @@ titre: Grande randonnée de crête (Chleb–Veľký Kriváň)
 région: Mala-Fatra
 type: rando
 famille-ok: à-éviter
+durée-visite: 8h
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Mal%C3%A1_Fatra,_hiking_to_Ve%C4%BEk%C3%BD_Rozsutec_-_panoramio.jpg | Randonnée vers le Veľký Rozsutec, Malá Fatra

@@ -2,6 +2,7 @@ titre: Sitno
 région: Banska-Stiavnica
 type: rando
 famille-ok: moyen
+durée-visite: 3h30
 étapes-candidates: Banska-Stiavnica
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Hrad_Sitno_-_panoramio.jpg | Hrad Sitno

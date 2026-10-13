@@ -2,6 +2,7 @@ titre: Bateau vers Devín
 région: Bratislava
 type: extra
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Castle_Devin_-_confluence_of_Dunaj_and_Morava_1.JPG | Le château de Devín au confluent du Danube et de la Morava

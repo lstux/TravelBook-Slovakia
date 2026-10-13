@@ -2,6 +2,7 @@ titre: Musée minier en plein air
 région: Banska-Stiavnica
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Banska-Stiavnica
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Bansk%C3%A9%20m%C3%BAzeum%20v%20pr%C3%ADrode%20-%20skanzen%20Bansk%C3%A1%20%C5%A0tiavnica%203%20-%20panoramio.jpg | Musée minier en plein air

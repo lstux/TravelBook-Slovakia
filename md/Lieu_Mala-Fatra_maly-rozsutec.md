@@ -2,6 +2,7 @@ titre: Malý Rozsutec
 région: Mala-Fatra
 type: rando
 famille-ok: à-éviter
+durée-visite: 6h
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1rodn%C3%BD_park_Mal%C3%A1_Fatra,_NPR_Rozsutec_-_Mal%C3%BD_Rozsutec.JPG | Malý Rozsutec, parc national de Malá Fatra

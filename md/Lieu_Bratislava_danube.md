@@ -2,6 +2,7 @@ titre: Danube & Most SNP
 région: Bratislava
 type: point-de-vue
 famille-ok: facile
+durée-visite: 45min
 étapes-candidates: Bratislava
 
 @ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bratislava_-_Most_SNP_(a).JPG/960px-Bratislava_-_Most_SNP_(a).JPG | Most SNP & UFO

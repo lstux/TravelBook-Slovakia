@@ -2,6 +2,7 @@ titre: Ružomberok & Liptovský Mikuláš
 région: Liptov
 type: sortie
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Liptov
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/KOSTOL_V_ZIME.jpeg | Église en hiver

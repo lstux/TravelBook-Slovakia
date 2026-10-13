@@ -2,6 +2,7 @@ titre: Basilique Saint-Jacques & Maître Paul
 région: Spis
 type: point-de-vue
 famille-ok: facile
+durée-visite: 45min
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:Redirect/file/Levoca%20-%20Basilica%20of%20St.%20James.jpg | Basilique Saint-Jacques de Levoča

@@ -2,6 +2,7 @@ titre: Slavín & histoire du XXe siècle
 région: Bratislava
 type: point-de-vue
 famille-ok: moyen
+durée-visite: 45min
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Slavin%20Bratislava.jpg | Mémorial de Slavín

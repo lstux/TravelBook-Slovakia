@@ -2,6 +2,7 @@ titre: Veľký Rozsutec
 région: Mala-Fatra
 type: rando
 famille-ok: à-éviter
+durée-visite: 7h
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Mala_Fatra_Wielki_Rozsutec.JPG | Veľký Rozsutec, Malá Fatra

@@ -2,6 +2,7 @@ titre: Strečno
 région: Mala-Fatra
 type: point-de-vue
 famille-ok: facile
+durée-visite: 1h15
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Castle_Stre%C4%8Dno_-_panoramio_(2).jpg | Château de Strečno

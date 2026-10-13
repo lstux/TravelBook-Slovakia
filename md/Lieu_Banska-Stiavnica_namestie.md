@@ -2,6 +2,7 @@ titre: Námestie Svätej Trojice & centre historique
 région: Banska-Stiavnica
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Banska-Stiavnica
 
 @ https://miribord.com/storage/22987/banska-%C5%A0tiavnica---mesto---17.jpg | Námestie Svätej Trojice

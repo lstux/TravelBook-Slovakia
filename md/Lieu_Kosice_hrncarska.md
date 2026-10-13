@@ -2,6 +2,7 @@ titre: Rue Hrnčiarska (rue des artisans)
 région: Kosice
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 30min
 étapes-candidates: Kosice
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%A1ice_-_Hrn%C4%8Diarska_ulica.jpg | Hrnčiarska ulica, Košice

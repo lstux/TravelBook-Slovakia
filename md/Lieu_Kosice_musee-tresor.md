@@ -2,6 +2,7 @@ titre: Musée de Slovaquie orientale & Trésor d'or
 région: Kosice
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 1h15
 étapes-candidates: Kosice
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral_of_St._Elizabeth_in_Ko%C5%A1ice.jpg | Cathédrale Sainte-Élisabeth, Košice

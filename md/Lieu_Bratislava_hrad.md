@@ -2,6 +2,7 @@ titre: Bratislavský hrad · Château
 région: Bratislava
 type: point-de-vue
 famille-ok: facile
+durée-visite: 1h30
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%20Castle.jpg | Bratislavský hrad

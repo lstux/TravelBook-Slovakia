@@ -2,6 +2,7 @@ titre: Kasárne Kulturpark & Kunsthalle
 région: Kosice
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 1h30
 étapes-candidates: Kosice
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/KulturparkKo%C5%A1ice.JPG | Kasárne Kulturpark, Košice

@@ -2,6 +2,7 @@ titre: Levoča — vieille ville (UNESCO)
 région: Spis
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:Redirect/file/Levoca%20main%20square%2001.jpg | Centre historique de Levoča

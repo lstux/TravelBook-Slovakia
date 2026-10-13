@@ -2,6 +2,7 @@ titre: Vrátna dolina (vallée de Vrátna) & Veľký Kriváň
 région: Mala-Fatra
 type: rando
 famille-ok: moyen
+durée-visite: 2h
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Mal%C3%A1_Fatra_-_panorama_by_Pudelek.jpg | Panorama de la Malá Fatra

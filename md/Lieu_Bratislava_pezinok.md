@@ -2,6 +2,7 @@ titre: Pezinok / route des vins
 région: Bratislava
 type: extra
 famille-ok: facile
+durée-visite: 2h30
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Radnica,_%C5%A0tef%C3%A1nikova_1,_Pezinok,_okres_Pezinok_10.JPG | Radnica (hôtel de ville) de Pezinok

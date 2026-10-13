@@ -2,6 +2,7 @@ titre: Sivá Brada
 région: Spis
 type: extra
 famille-ok: facile
+durée-visite: 45min
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/NPR_Siv%C3%A1_Brada_-_gejz%C3%ADr1.jpg | Sivá Brada, le gejzír

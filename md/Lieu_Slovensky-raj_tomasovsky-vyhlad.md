@@ -2,6 +2,7 @@ titre: Tomášovský výhľad
 région: Slovensky-raj
 type: point-de-vue
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Slovensky%20raj%2C%20Tomasovsky%20vyhlad%2C%2008.jpg | Tomášovský výhľad

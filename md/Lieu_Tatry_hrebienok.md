@@ -2,6 +2,7 @@ titre: Hrebienok & cascades de Studený potok
 région: Tatry
 type: rando
 famille-ok: facile
+durée-visite: 2h30
 étapes-candidates: Tatry
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Hrebienok.jpg | Hrebienok

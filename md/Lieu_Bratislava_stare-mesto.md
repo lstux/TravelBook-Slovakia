@@ -2,6 +2,7 @@ titre: Staré Mesto · Vieille ville
 région: Bratislava
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%20Old%20Town.jpg | Staré Mesto

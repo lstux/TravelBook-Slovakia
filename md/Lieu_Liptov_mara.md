@@ -2,6 +2,7 @@ titre: Liptovská Mara
 région: Liptov
 type: baignade
 famille-ok: facile
+durée-visite: 2h30
 étapes-candidates: Liptov
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Liptovska%20Mara.jpg | Liptovská Mara

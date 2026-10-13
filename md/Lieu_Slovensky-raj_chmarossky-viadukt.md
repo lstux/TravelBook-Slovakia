@@ -2,6 +2,7 @@ titre: Chmarošský viadukt
 région: Slovensky-raj
 type: point-de-vue
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Telg%C3%A1rt_17_Slovakia23.jpg | Telgárt, vallée du Hnilec

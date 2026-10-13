@@ -2,6 +2,7 @@ titre: Tiesňavy
 région: Mala-Fatra
 type: rando
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Ansicht_der_Schlucht_im_Nationalen_Naturschutzgebiet_Ties%C5%88avy_1.jpg | Vue de la gorge de Tiesňavy

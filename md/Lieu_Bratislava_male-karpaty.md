@@ -2,6 +2,7 @@ titre: Malé Karpaty
 région: Bratislava
 type: extra
 famille-ok: facile
+durée-visite: 3h
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Beech_trees_in_Male_Karpaty_01.jpg | Hêtraies des Petites Carpates
