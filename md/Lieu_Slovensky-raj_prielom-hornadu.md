@@ -2,6 +2,7 @@ titre: Prielom Hornádu
 région: Slovensky-raj
 type: rando
 famille-ok: moyen
+durée-visite: 4h
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Prielom%20Horn%C3%A1du.jpg | Prielom Hornádu

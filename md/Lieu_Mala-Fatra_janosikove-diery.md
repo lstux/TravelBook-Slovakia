@@ -2,6 +2,7 @@ titre: Jánošíkove diery (les « gorges de Jánošík »)
 région: Mala-Fatra
 type: rando
 famille-ok: moyen
+durée-visite: 4h30
 étapes-candidates: Mala-Fatra
 
 # rando (durée: 3h30-4h30, difficulté: moyen, balisage: gorges équipées)

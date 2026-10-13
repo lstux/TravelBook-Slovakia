@@ -2,6 +2,7 @@ titre: Spišská Kapitula (UNESCO)
 région: Spis
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:Redirect/file/Spisska%20Kapitula-1.jpg | Spišská Kapitula

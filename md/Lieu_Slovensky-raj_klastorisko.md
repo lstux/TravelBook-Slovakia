@@ -2,6 +2,7 @@ titre: Kláštorská roklina & Kláštorisko
 région: Slovensky-raj
 type: rando
 famille-ok: moyen
+durée-visite: 4h
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Slovensky%20raj-Klastorisko.jpg | Kláštorisko

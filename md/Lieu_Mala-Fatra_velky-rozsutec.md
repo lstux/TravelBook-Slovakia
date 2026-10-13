@@ -2,6 +2,7 @@ titre: Veľký Rozsutec
 région: Mala-Fatra
 type: rando
 famille-ok: à-éviter
+durée-visite: 7h
 étapes-candidates: Mala-Fatra
 
 # rando (dénivelé: 1609.7m, difficulté: difficile)

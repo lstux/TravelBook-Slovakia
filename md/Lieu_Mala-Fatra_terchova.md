@@ -2,6 +2,7 @@ titre: Terchová & culture Jánošík
 région: Mala-Fatra
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Mala-Fatra
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Slovakia%20Terchova%2016.jpg | Terchová

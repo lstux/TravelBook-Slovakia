@@ -2,6 +2,7 @@ titre: Piecky
 région: Slovensky-raj
 type: rando
 famille-ok: moyen
+durée-visite: 2h30
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Slovensky%20raj%20Piecky1.jpg | Gorge de Piecky

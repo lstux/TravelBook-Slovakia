@@ -2,6 +2,7 @@ titre: Hlavná ulica & fontaine chantante
 région: Kosice
 type: point-de-vue
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Kosice
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Kosice%2C%20Hlavna%20ulica.jpg | Hlavná ulica

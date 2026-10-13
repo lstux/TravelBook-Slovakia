@@ -2,6 +2,7 @@ titre: Štrbské Pleso
 région: Tatry
 type: baignade
 famille-ok: facile
+durée-visite: 1h30
 étapes-candidates: Tatry
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/High%20Tatras%20%28%C5%A0trbsk%C3%A9%20pleso%29.JPG | Štrbské Pleso

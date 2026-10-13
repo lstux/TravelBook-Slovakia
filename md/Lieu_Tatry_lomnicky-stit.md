@@ -2,6 +2,7 @@ titre: Lomnický štít
 région: Tatry
 type: point-de-vue
 famille-ok: moyen
+durée-visite: 3h
 étapes-candidates: Tatry
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Lomnicky%20stit%20001.jpg | Lomnický štít

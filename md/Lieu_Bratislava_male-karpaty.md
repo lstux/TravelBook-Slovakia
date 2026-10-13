@@ -2,6 +2,7 @@ titre: Malé Karpaty
 région: Bratislava
 type: extra
 famille-ok: facile
+durée-visite: 3h
 étapes-candidates: Bratislava
 
 + notre avis: si l'envie de marcher arrive plus tôt que prévu — collines boisées autour de Bratislava.

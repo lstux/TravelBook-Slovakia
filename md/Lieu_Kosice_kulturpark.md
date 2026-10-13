@@ -2,6 +2,7 @@ titre: Kasárne Kulturpark & Kunsthalle
 région: Kosice
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 1h30
 étapes-candidates: Kosice
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Kasarne+Kulturpark+Kosice

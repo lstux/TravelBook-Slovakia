@@ -2,6 +2,7 @@ titre: Une soirée sans programme
 région: Bratislava
 type: sortie
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%20Old%20Town%20cafes.jpg | Cafés de la vieille ville

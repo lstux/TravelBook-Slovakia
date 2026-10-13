@@ -2,6 +2,7 @@ titre: Starý zámok & Nový zámok
 région: Banska-Stiavnica
 type: point-de-vue
 famille-ok: facile
+durée-visite: 1h30
 étapes-candidates: Banska-Stiavnica
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Bansk%C3%A1%20%C5%A0tiavnica%20-%20Nov%C3%BD%20z%C3%A1mok1.jpg | Nový zámok

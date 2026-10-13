@@ -2,6 +2,7 @@ titre: Popradské pleso & vallée
 région: Tatry
 type: rando
 famille-ok: moyen
+durée-visite: 3h30
 étapes-candidates: Tatry
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Popradske%20Pleso.jpg | Popradské pleso

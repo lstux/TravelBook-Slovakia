@@ -2,6 +2,7 @@ titre: Malý Rozsutec
 région: Mala-Fatra
 type: rando
 famille-ok: à-éviter
+durée-visite: 6h
 étapes-candidates: Mala-Fatra
 
 # rando (dénivelé: 1343m, difficulté: difficile)

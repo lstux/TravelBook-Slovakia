@@ -2,6 +2,7 @@ titre: Demänovská dolina · grottes
 région: Liptov
 type: grotte
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Liptov
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Demanova%20Cave%20of%20Freedom%2024.jpg | Grotte de la Liberté à Demänovská

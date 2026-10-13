@@ -2,6 +2,7 @@ titre: Cathédrale Sainte-Élisabeth
 région: Kosice
 type: point-de-vue
 famille-ok: facile
+durée-visite: 45min
 étapes-candidates: Kosice
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Kosice%20-%20St.%20Elizabeth%20Cathedral.jpg | Cathédrale Sainte-Élisabeth

@@ -2,6 +2,7 @@ titre: Skalnaté Pleso
 région: Tatry
 type: point-de-vue
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Tatry
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Skalnat%C3%A9%20pleso.jpg | Skalnaté Pleso

@@ -2,6 +2,7 @@ titre: Événement local à Terchová
 région: Mala-Fatra
 type: extra
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Mala-Fatra
 
 + notre avis: Terchová accueille plusieurs événements culturels et musicaux — vérifier le calendrier pour faire coïncider l'étape avec quelque chose de local.

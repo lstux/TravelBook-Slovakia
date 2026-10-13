@@ -2,6 +2,7 @@ titre: Académie des Mines & ambiance universitaire
 région: Banska-Stiavnica
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Banska-Stiavnica
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Dom%20Banskej%20akad%C3%A9mie%2C%20Bansk%C3%A1%20%C5%A0tiavnica.JPG | Bâtiments de l'Académie des Mines

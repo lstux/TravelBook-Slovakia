@@ -2,6 +2,7 @@ titre: Rue Hrnčiarska (rue des artisans)
 région: Kosice
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 30min
 étapes-candidates: Kosice
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Hrncziarska+Kosice

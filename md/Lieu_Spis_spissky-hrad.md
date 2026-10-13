@@ -2,6 +2,7 @@ titre: Spišský hrad (UNESCO)
 région: Spis
 type: point-de-vue
 famille-ok: moyen
+durée-visite: 2h
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:Redirect/file/Spis%20Castle%20105.jpg | Vue occidentale du Spišský hrad

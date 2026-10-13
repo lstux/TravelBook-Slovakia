@@ -2,6 +2,7 @@ titre: Tatranská Lomnica & ambiance de station
 région: Tatry
 type: sortie
 famille-ok: facile
+durée-visite: 1h
 étapes-candidates: Tatry
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Tatransk%C3%A1%20Lomnica.jpg | Tatranská Lomnica

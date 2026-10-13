@@ -2,6 +2,7 @@ titre: Remparts & portes de Levoča
 région: Spis
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 45min
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:Redirect/file/City%20wall%20%26%20gate,%20Levo%C4%8Da,%20Slovakia%2033.jpg | Remparts historiques de Levoča

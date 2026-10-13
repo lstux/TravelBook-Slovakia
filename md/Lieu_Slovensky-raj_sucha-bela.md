@@ -2,6 +2,7 @@ titre: Suchá Belá
 région: Slovensky-raj
 type: rando
 famille-ok: moyen
+durée-visite: 3h30
 étapes-candidates: Slovensky-raj
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Sucha%20Bela%20Gorge.jpg | Passerelle dans la gorge de Suchá Belá

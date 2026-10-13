@@ -2,6 +2,7 @@ titre: Musée de Slovaquie orientale & Trésor d'or
 région: Kosice
 type: culture-industrielle
 famille-ok: facile
+durée-visite: 1h15
 étapes-candidates: Kosice
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Vychodoslovenske+muzeum+Kosice

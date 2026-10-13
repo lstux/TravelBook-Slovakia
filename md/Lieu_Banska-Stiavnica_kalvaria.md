@@ -2,6 +2,7 @@ titre: Kalvária
 région: Banska-Stiavnica
 type: point-de-vue
 famille-ok: moyen
+durée-visite: 1h15
 étapes-candidates: Banska-Stiavnica
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Banska%20Stiavnica%20Calvary.jpg | Kalvária de Banská Štiavnica

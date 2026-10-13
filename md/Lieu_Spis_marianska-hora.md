@@ -2,6 +2,7 @@ titre: Mont Mariánska hora
 région: Spis
 type: point-de-vue
 famille-ok: moyen
+durée-visite: 1h30
 étapes-candidates: Spis
 
 @ https://commons.wikimedia.org/wiki/Special:Redirect/file/Levoca%20panorama.JPG | Vue panoramique depuis Mariánska hora

@@ -2,6 +2,7 @@ titre: Prosiecka & Kvačianska dolina
 région: Liptov
 type: rando
 famille-ok: moyen
+durée-visite: 4h
 étapes-candidates: Liptov
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Vstup%20do%20prosieckej%20doliny.JPG | Entrée de la Prosiecka dolina

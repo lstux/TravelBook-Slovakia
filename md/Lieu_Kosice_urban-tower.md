@@ -2,6 +2,7 @@ titre: Tour Urban & chapelle Saint-Michel
 région: Kosice
 type: point-de-vue
 famille-ok: facile
+durée-visite: 30min
 étapes-candidates: Kosice
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Urban+Tower+Kosice

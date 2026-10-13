@@ -2,6 +2,7 @@ titre: Vlkolínec
 région: Liptov
 type: village-patrimoine
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Liptov
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Vlkol%C3%ADnec%20Main%20street.JPG | Maisons en bois de Vlkolínec

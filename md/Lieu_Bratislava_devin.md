@@ -2,6 +2,7 @@ titre: Devín · château & confluence
 région: Bratislava
 type: point-de-vue
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Bratislava
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Devin%20Castle%20Slovakia.jpg | Château de Devín

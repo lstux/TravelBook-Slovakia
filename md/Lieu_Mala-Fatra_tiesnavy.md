@@ -2,6 +2,7 @@ titre: Tiesňavy
 région: Mala-Fatra
 type: rando
 famille-ok: facile
+durée-visite: 2h
 étapes-candidates: Mala-Fatra
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Tiesnavy+Terchova+Slovakia

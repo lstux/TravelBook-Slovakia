@@ -2,6 +2,7 @@ titre: Vrátna dolina (vallée de Vrátna) & Veľký Kriváň
 région: Mala-Fatra
 type: rando
 famille-ok: moyen
+durée-visite: 2h
 étapes-candidates: Mala-Fatra
 
 # rando (dénivelé: 1708.7m)
