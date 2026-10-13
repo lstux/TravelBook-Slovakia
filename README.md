@@ -2,6 +2,8 @@
 
 Carnet de voyage Slovaquie (Poznávačka) : étapes, lieux, hébergements, tables, spécialités et repères culturels pour un road-trip en famille entre Vienne, la Slovaquie et Budapest. Ce dépôt ne contient que les données ; il est lu par le moteur [TravelBook](https://github.com/lstux/TravelBook), qui n'est pas ici.
 
+**Site en ligne : <https://lstux.github.io/TravelBook-Slovakia/>** — publié automatiquement par GitHub Pages à chaque push sur `main` (workflow `.github/workflows/pages.yml`).
+
 ## Contenu
 
 - `md/` : les fiches au format TMD (une par lieu, dodo, table, spécialité, culture, étape) et `etapes.txt`, l'ordre du voyage.
