@@ -8,8 +8,8 @@ nuits: 2
 + intro: Une étape courte pour découvrir la capitale sans lui consacrer trop de temps : vieille ville, château, Danube, histoire récente et éventuellement Devín. Garder une demi-journée "libre" pour l'ambiance et les rencontres.
 ~ Krátka zastávka na spoznanie hlavného mesta: staré mesto, hrad, Dunaj, nedávna história a prípadne Devín. Dobré je nechať si pol dňa voľného na atmosféru a stretnutia s ľuďmi.
 
-+ conseil durée: je partirais sur 1,5 à 2 jours maximum. Une journée pleine + une demi-journée me semblent suffisantes pour une première découverte, avec Devín en option. Le but est de garder du temps pour les montagnes ensuite.
-~ Zostal by som tu najviac jeden a pol až dva dni. Devín môže byť voliteľný, aby zostalo viac času na hory.
++ conseil durée: prévoir 1,5 à 2 jours maximum. Une journée pleine + une demi-journée semblent suffisantes pour une première découverte, avec Devín en option. Le but est de garder du temps pour les montagnes ensuite.
+~ Odporúča sa tu zostať najviac jeden a pol až dva dni. Devín môže byť voliteľný, aby zostalo viac času na hory.
 
 == Centre-ville
 -> Lieu_Bratislava_hrad

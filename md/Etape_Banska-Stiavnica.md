@@ -10,7 +10,7 @@ trajet-depuis-précédente: étape: Bratislava
 ~ Historické banské mesto v kopcoch, výborné na pochopenie spojenia histórie, baníctva a krajiny. Banská Štiavnica je na zozname UNESCO od roku 1993.
 
 + conseil durée: 2 jours pleins me semblent très bien — une journée consacrée au centre historique et aux châteaux, une autre pour la mine + la Kalvária et/ou un tajch. Une 3e journée serait agréable pour ralentir ou faire une vraie balade dans les collines.
-~ Na túto cestu by som plánoval 2 celé dni: historické centrum a hrady, potom baňa a Kalvária alebo tajch.
+~ Na túto cestu odporúčame 2 celé dni: historické centrum a hrady, potom baňa a Kalvária alebo tajch.
 
 == Jour A · la ville
 -> Lieu_Banska-Stiavnica_namestie

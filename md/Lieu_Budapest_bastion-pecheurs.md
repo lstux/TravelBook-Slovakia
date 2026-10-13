@@ -11,4 +11,4 @@ famille-ok: facile
 + Sur place: la place est plate et dégagée, facile avec une poussette, contrairement à beaucoup de sites historiques du quartier du Château.
 
 ! anecdote
-Le nom "Bastion des pêcheurs" vient de la guilde des pêcheurs qui, au Moyen Âge, avait la charge de défendre ce tronçon des remparts de Buda — un souvenir purement historique puisque l'édifice actuel, tout en tourelles blanches et arcades, n'a jamais eu de vocation militaire et n'a jamais essuyé le moindre assaut.
+Le nom "Bastion des pêcheurs" vient, selon les versions, de la guilde des pêcheurs qui aurait défendu ce tronçon des remparts au Moyen Âge, ou du quartier voisin des pêcheurs (Halászváros). L'édifice actuel, bâti de 1895 à 1902 dans un style néo-roman de tourelles blanches et d'arcades, est surtout décoratif.

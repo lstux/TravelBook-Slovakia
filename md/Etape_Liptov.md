@@ -27,15 +27,15 @@ trajet-depuis-précédente: étape: Malá Fatra
 -> Dodo_Liptov_chalupa
 -> Dodo_Liptov_camping
 
-+ conseil logement: je partirais plutôt sur 2 nuits dans le secteur Liptovský Mikuláš/Liptovská Mara si l'objectif est de rayonner, ou Ružomberok/Biely Potok si Vlkolínec est la priorité — pas besoin de changer de logement au milieu de l'étape.
-~ Pre našu cestu by som zvolil dve noci v okolí Liptovského Mikuláša alebo Liptovskej Mary, prípadne Ružomberok, ak bude prioritou Vlkolínec.
++ conseil logement: prévoir plutôt 2 nuits dans le secteur Liptovský Mikuláš/Liptovská Mara si l'objectif est de rayonner, ou Ružomberok/Biely Potok si Vlkolínec est la priorité — pas besoin de changer de logement au milieu de l'étape.
+~ Pre túto cestu odporúčame dve noci v okolí Liptovského Mikuláša alebo Liptovskej Mary, prípadne Ružomberok, ak bude prioritou Vlkolínec.
 
 + à goûter -> Specialite_bryndza-syry, Specialite_zincica, Specialite_liptovske-droby, Specialite_halusky
 + test gastronomique: une vraie dégustation de bryndza + žinčica, puis un plat régional différent des halušky. Si on tombe sur une petite ferme ou boutique locale de produits ovins, on prend quelque chose pour la route.
 ~ Môj gastronomický plán: bryndza a žinčica, potom jedno regionálne jedlo odlišné od halušiek.
 
 + Météo: garder la journée randonnée flexible. Si les conditions sont mauvaises, Vlkolínec + Havránok + grotte constituent une excellente journée de remplacement.
-+ Voiture: Liptov est très facile à rayonner en voiture, ce qui rend cette étape particulièrement compatible avec notre projet de location.
++ Voiture: Liptov est très facile à rayonner en voiture, ce qui rend cette étape particulièrement compatible avec une voiture de location.
 + En famille: Vlkolínec et Liptovská Mara sont très faciles à moduler. Pour Prosiecka/Kvačianska, on choisira la longueur en fonction de la forme du jour.
 ~ Liptov je autom veľmi dobre dostupný. Vlkolínec a Liptovská Mara sú ľahko prispôsobiteľné pre rodinu.
 

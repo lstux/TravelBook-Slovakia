@@ -4,7 +4,9 @@ type: rando
 famille-ok: à-éviter
 étapes-candidates: Mala-Fatra
 
-# rando (dénivelé: 1609.7m, difficulté: difficile)
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mala_Fatra_Wielki_Rozsutec.JPG | Veľký Rozsutec, Malá Fatra
+
+# rando (difficulté: difficile)
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Velky+Rozsutec+Slovakia
 + notre avis: 1609,7 m, probablement le sommet emblématique de cette partie de la Slovaquie — le gros objectif rando de l'étape : panoramas, relief calcaire et vraie sensation de montagne. Gros objectif si météo OK.

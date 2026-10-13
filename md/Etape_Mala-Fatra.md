@@ -33,7 +33,7 @@ trajet-depuis-précédente: étape: Banská Štiavnica
 -> Dodo_Mala-Fatra_camping
 
 + Météo: les sommets et les gorges ne sont pas interchangeables. Après de fortes pluies, les sections équipées de passerelles/chaînes peuvent devenir problématiques ; Horné diery ne sont notamment pas praticables en cas de fortes pluies.
-+ Équipement: bonnes chaussures, petite veste imperméable et vêtements de rechange pour un enfant — échelles et rochers peuvent être glissants.
++ Équipement: bonnes chaussures, petite veste imperméable et vêtements de rechange pour les enfants — échelles et rochers peuvent être glissants.
 + Voiture: si on vient en voiture, choisir le logement en fonction du stationnement et du départ de randonnée. Sinon, Terchová est desservie depuis Žilina, avec des horaires moins fréquents vers les départs de sentiers.
 + En famille: Dolné diery est la partie la plus facile ; les variantes vers Malý/Veľký Rozsutec demandent davantage d'engagement.
 ~ Dobré turistické topánky, nepremokavá bunda a náhradné oblečenie pre dieťa sú vhodné. Dolné diery sú najľahšou možnosťou pre rodiny.

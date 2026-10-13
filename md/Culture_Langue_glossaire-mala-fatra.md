@@ -3,6 +3,8 @@ catégorie: langue
 région: Mala-Fatra
 étapes-candidates: Mala-Fatra
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mal%C3%A1_Fatra_-_panorama_by_Pudelek.jpg | Malá Fatra
+
 + hory: montagnes
 + dolina: vallée
 + diery: gorges

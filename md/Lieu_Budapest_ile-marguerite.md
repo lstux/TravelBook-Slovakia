@@ -7,7 +7,7 @@ famille-ok: facile
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Budapest%2C%20Margaret%20Island%2C%20Rose%20Garden.jpg | Jardin de roses, Île Marguerite
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Margaret+Island+Budapest
-+ notre avis: la vraie pause nature de Budapest — île piétonne de 2,5 km au milieu du Danube, sans voitures, avec grandes pelouses, fontaine musicale, petit parc animalier gratuit (daims, oiseaux) et location de vélos/rosalies familiales sur place. Idéal pour laisser un enfant courir après deux jours de musées et de pavés.
++ notre avis: la vraie pause nature de Budapest — île piétonne de 2,5 km au milieu du Danube, sans voitures, avec grandes pelouses, fontaine musicale, petit parc animalier gratuit (daims, oiseaux) et location de vélos/rosalies familiales sur place. Idéal pour laisser les enfants courir après deux jours de musées et de pavés.
 + Accès: à pied ou en tram depuis les deux rives, entrée par le pont Margit ou le pont Árpád ; tout le tour se fait facilement en une heure de balade tranquille.
 
 ! anecdote

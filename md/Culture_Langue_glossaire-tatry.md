@@ -3,6 +3,8 @@ catégorie: langue
 région: Tatry
 étapes-candidates: Tatry
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_Tatr_-_panoramio.jpg | Panorama des Tatras
+
 + pleso: lac de montagne
 + štít: sommet / pic
 + sedlo: col

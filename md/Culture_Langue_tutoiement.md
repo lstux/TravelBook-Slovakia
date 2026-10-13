@@ -2,6 +2,8 @@ titre: Vykanie — le vouvoiement qui ne meurt jamais
 catégorie: langue
 étapes-candidates: Košice
 
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovak_alphabet.png | Alphabet slovaque
+
 + le-fait: les Slovaques vouvoient énormément, y compris des gens qu'un Français tutoierait spontanément (voisin plus âgé, vendeur, prof).
 + à-savoir: pas besoin de maîtriser le slovaque pour ça — rester formel au début, même en anglais ou en mimant, est perçu comme du respect, pas de la froideur.
 

@@ -7,7 +7,7 @@ famille-ok: facile
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Stephansdom.JPG | Stephansdom, Vienne
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Stephansdom+Vienna
-+ notre avis: le vrai clou du spectacle, c'est le toit en tuiles vernissées avec son aigle bicéphale géant, visible gratuitement depuis la place. L'intérieur est impressionnant mais sombre et chargé ; pas besoin de s'attarder avec un jeune enfant, dix minutes suffisent pour l'essentiel.
++ notre avis: le vrai clou du spectacle, c'est le toit en tuiles vernissées avec son aigle bicéphale géant, visible gratuitement depuis la place. L'intérieur est impressionnant mais sombre et chargé ; pas besoin de s'attarder avec de jeunes enfants, dix minutes suffisent pour l'essentiel.
 + Autour: la place Stephansplatz et la rue commerçante Graben qui en part sont idéales pour une pause glace ou un premier contact avec le centre historique à pied.
 
 ! anecdote
