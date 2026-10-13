@@ -31,12 +31,18 @@
     49.1397,
     20.1875
   ],
-  "Lieu_Banska-Stiavnica_akademia": null,
+  "Lieu_Banska-Stiavnica_akademia": [
+    48.45806,
+    18.89639
+  ],
   "Lieu_Banska-Stiavnica_kalvaria": [
     48.4617675,
     18.9139525
   ],
-  "Lieu_Banska-Stiavnica_mine": null,
+  "Lieu_Banska-Stiavnica_mine": [
+    48.45806,
+    18.89639
+  ],
   "Lieu_Banska-Stiavnica_namestie": [
     48.459779,
     18.8925207
@@ -88,13 +94,22 @@
     48.7202696,
     21.2582156
   ],
-  "Lieu_Kosice_hlavna-fontaine": null,
-  "Lieu_Kosice_hrncarska": null,
+  "Lieu_Kosice_hlavna-fontaine": [
+    48.717,
+    21.25
+  ],
+  "Lieu_Kosice_hrncarska": [
+    48.717,
+    21.25
+  ],
   "Lieu_Kosice_kulturpark": [
     48.7137463,
     21.2562619
   ],
-  "Lieu_Kosice_musee-tresor": null,
+  "Lieu_Kosice_musee-tresor": [
+    48.717,
+    21.25
+  ],
   "Lieu_Kosice_urban-tower": [
     48.7206559,
     21.2581581
@@ -104,21 +119,42 @@
     49.104722,
     19.481667
   ],
-  "Lieu_Liptov_mara": null,
+  "Lieu_Liptov_mara": [
+    49.09861,
+    19.48889
+  ],
   "Lieu_Liptov_prosiecka-kvacianska": null,
-  "Lieu_Liptov_ruzomberok-mikulas": null,
-  "Lieu_Liptov_vlkolinec": null,
+  "Lieu_Liptov_ruzomberok-mikulas": [
+    49.08,
+    19.31
+  ],
+  "Lieu_Liptov_vlkolinec": [
+    49.04167,
+    19.275
+  ],
   "Lieu_Mala-Fatra_crete": null,
   "Lieu_Mala-Fatra_evenement": null,
   "Lieu_Mala-Fatra_janosikove-diery": null,
   "Lieu_Mala-Fatra_maly-rozsutec": null,
-  "Lieu_Mala-Fatra_strecno": null,
-  "Lieu_Mala-Fatra_terchova": null,
+  "Lieu_Mala-Fatra_strecno": [
+    49.19,
+    18.87
+  ],
+  "Lieu_Mala-Fatra_terchova": [
+    49.27,
+    19.03
+  ],
   "Lieu_Mala-Fatra_tiesnavy": null,
-  "Lieu_Mala-Fatra_velky-rozsutec": null,
+  "Lieu_Mala-Fatra_velky-rozsutec": [
+    49.23194,
+    19.10083
+  ],
   "Lieu_Mala-Fatra_vratna": null,
   "Lieu_Slovensky-raj_chmarossky-viadukt": null,
-  "Lieu_Slovensky-raj_dobsinska": null,
+  "Lieu_Slovensky-raj_dobsinska": [
+    48.87194,
+    20.29472
+  ],
   "Lieu_Slovensky-raj_geravy": null,
   "Lieu_Slovensky-raj_klastorisko": null,
   "Lieu_Slovensky-raj_palcmanska-masa": null,
@@ -126,15 +162,36 @@
   "Lieu_Slovensky-raj_prielom-hornadu": null,
   "Lieu_Slovensky-raj_sucha-bela": null,
   "Lieu_Slovensky-raj_tomasovsky-vyhlad": null,
-  "Lieu_Spis_basilique": null,
-  "Lieu_Spis_drevenik": null,
-  "Lieu_Spis_kapitula": null,
-  "Lieu_Spis_levoca": null,
+  "Lieu_Spis_basilique": [
+    49.03,
+    20.59
+  ],
+  "Lieu_Spis_drevenik": [
+    48.984217,
+    20.772483
+  ],
+  "Lieu_Spis_kapitula": [
+    49.0,
+    20.75
+  ],
+  "Lieu_Spis_levoca": [
+    49.03,
+    20.59
+  ],
   "Lieu_Spis_marianska-hora": null,
-  "Lieu_Spis_remparts": null,
+  "Lieu_Spis_remparts": [
+    49.03,
+    20.59
+  ],
   "Lieu_Spis_siva-brada": null,
-  "Lieu_Spis_spissky-hrad": null,
-  "Lieu_Spis_zehra": null,
+  "Lieu_Spis_spissky-hrad": [
+    49.00056,
+    20.76833
+  ],
+  "Lieu_Spis_zehra": [
+    48.98,
+    20.79
+  ],
   "Lieu_Tatry_hrebienok": [
     49.1585567,
     20.2246506
@@ -158,5 +215,41 @@
   "Lieu_Tatry_strbske-pleso": [
     49.1295731,
     20.0539628
+  ],
+  "Lieu_Budapest_bastion-pecheurs": [
+    47.5027,
+    19.0344
+  ],
+  "Lieu_Budapest_chateau-buda": [
+    47.49611,
+    19.03972
+  ],
+  "Lieu_Budapest_parlement": [
+    47.50694,
+    19.04556
+  ],
+  "Lieu_Budapest_thermes-szechenyi": [
+    47.51861,
+    19.08194
+  ],
+  "Lieu_Trnava_centre": [
+    48.3775,
+    17.58833
+  ],
+  "Lieu_Nitra_hrad": [
+    48.31833,
+    18.08639
+  ],
+  "Lieu_Vienne_hundertwasserhaus": [
+    48.20722,
+    16.39417
+  ],
+  "Lieu_Vienne_schonbrunn": [
+    48.184516,
+    16.311865
+  ],
+  "Lieu_Vienne_stephansdom": [
+    48.2085,
+    16.373
   ]
 }
