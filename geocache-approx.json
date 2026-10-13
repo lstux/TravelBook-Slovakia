@@ -18,5 +18,35 @@
     "lat": 49.22722,
     "lon": 19.03333,
     "note": "départ du sentier, vallée de Vrátna"
+  },
+  "Lieu_Bratislava_van-purecampers": {
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "note": "Hradská 7/E, Bratislava : placé au centre-ville"
+  },
+  "Lieu_Bratislava_van-campersoul": {
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "note": "Pifflova 4, Bratislava : placé au centre-ville"
+  },
+  "Lieu_Bratislava_van-kemperacik": {
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "note": "adresse non publiée : centre-ville de Bratislava"
+  },
+  "Lieu_Bratislava_van-daqevan": {
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "note": "pas d'adresse, prise en charge à convenir : centre-ville de Bratislava"
+  },
+  "Lieu_Kosice_van-kemperi": {
+    "lat": 48.7164,
+    "lon": 21.2611,
+    "note": "Vlkanová, près de Košice (non localisée) : placé au centre de Košice"
+  },
+  "Lieu_Budapest_gare": {
+    "lat": 47.5003,
+    "lon": 19.0839,
+    "note": "gare Keleti, Baross tér (estimation)"
   }
 }
