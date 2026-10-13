@@ -1,0 +1,22 @@
+{
+  "Lieu_Bratislava_soiree": {
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "note": "centre-ville de Bratislava"
+  },
+  "Lieu_Bratislava_devin-bateau": {
+    "lat": 48.1389,
+    "lon": 17.0996,
+    "note": "quai des passagers, Fajnorovo nábrežie 2, près du pont SNP"
+  },
+  "Lieu_Mala-Fatra_evenement": {
+    "lat": 49.27,
+    "lon": 19.03,
+    "note": "centre de Terchová"
+  },
+  "Lieu_Mala-Fatra_crete": {
+    "lat": 49.22722,
+    "lon": 19.03333,
+    "note": "départ du sentier, vallée de Vrátna"
+  }
+}
