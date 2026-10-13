@@ -330,5 +330,17 @@
   "Lieu_Nitra_katedrala": [
     48.31845,
     18.08705
+  ],
+  "Lieu_Bratislava_gare": [
+    48.15833,
+    17.10611
+  ],
+  "Lieu_Kosice_gare": [
+    48.7225,
+    21.26806
+  ],
+  "Lieu_Vienne_gare": [
+    48.186667,
+    16.38
   ]
 }
