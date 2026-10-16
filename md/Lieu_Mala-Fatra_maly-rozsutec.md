@@ -10,5 +10,7 @@ durée-visite: 6h
 # rando (difficulté: difficile)
 
 + Google Maps: https://www.google.com/maps/search/?api=1&query=Maly+Rozsutec+Slovakia
++ Repères: la grotte de cristal (Kryštálová jaskyňa), ornée de calcite, se trouve dans le Malý Rozsutec ; le sommet domine les Horné diery, entre Malý et Veľký Rozsutec
++ en savoir plus: https://en.wikipedia.org/wiki/Mal%C3%A1_Fatra_National_Park
 + notre avis: sommet spectaculaire de 1343 m, souvent combiné avec les Diery. Plus aérien et plus exigeant sur certains passages — à garder pour une météo sèche et si toute la famille est à l'aise avec échelles/chaînes. Randonnée "aventure".
 ~ Malý Rozsutec má 1343 metrov a ponúka veľmi pôsobivé výhľady. Niektoré úseky sú vzdušnejšie a náročnejšie.
