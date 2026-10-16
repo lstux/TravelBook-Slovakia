@@ -15,4 +15,4 @@ famille-ok: facile
 + Affluence: le matin en semaine est nettement plus calme que l'après-midi et le week-end ; les casiers/cabines se paient en plus de l'entrée.
 
 ! anecdote
-Construits en 1913 dans un style néobaroque flamboyant, les bains Széchenyi sont alimentés par deux puits thermaux profonds (environ 970 et 1250 mètres) — ils sont surtout connus pour la partie d'échecs presque permanente qui se joue depuis des décennies sur des échiquiers flottants en plein bassin extérieur, spectacle presque plus attendu que l'architecture elle-même.
+Construits en 1913 dans un style néobaroque, les bains Széchenyi sont alimentés par deux puits thermaux profonds (975 et 1 256 mètres). Dans le bassin extérieur, on peut jouer aux échecs sur des plateaux flottants, avec de l'eau à la taille.
