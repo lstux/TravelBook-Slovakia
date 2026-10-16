@@ -11,4 +11,3 @@ région: Mala-Fatra
 + potok: ruisseau
 + vrch: sommet / colline
 + koliba: auberge traditionnelle de montagne
-~ Malý slovník: hory = hory, dolina = údolie, diery = rokliny, potok = potok, vrch = vrch a koliba = tradičná horská reštaurácia.

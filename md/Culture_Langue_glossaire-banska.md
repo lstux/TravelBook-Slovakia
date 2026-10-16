@@ -12,4 +12,3 @@ région: Banska-Stiavnica
 + tajch: réservoir artificiel
 + námestie: place
 + múzeum: musée
-~ Malý slovník: banský = banícky, baňa = baňa, zámok = zámok, hrad = hrad, tajch = umelá vodná nádrž, námestie = námestie a múzeum = múzeum.

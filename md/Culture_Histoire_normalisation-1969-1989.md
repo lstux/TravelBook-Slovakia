@@ -135,7 +135,7 @@ langage officiel et langage privé est très caractéristique des sociétés
 communistes tardives.
 
 ## Entrer chez les Pionniers
-Dès l'âge de six ans environ, la
+Dès l'école primaire, la
 quasi-totalité des enfants rejoignent l'organisation des Pionniers
 (Pionierska organizácia). L'adhésion est officiellement présentée comme
 volontaire, mais dans les faits, ne pas y participer expose à des
@@ -194,8 +194,7 @@ Mais la télévision, ce n'est pas seulement le journal officiel. Depuis
 1965, le rendez-vous quotidien du soir avant le coucher, le Večerníček
 (« petit soir »), diffuse un dessin animé ou un conte de dix minutes à
 heure fixe — un rituel familial largement dépolitisé qui traverse tout
-le régime sans changer de forme. Les marionnettes de Spejbl et Hurvínek
-ou les histoires du bandit débonnaire Rumcajs font partie des souvenirs
+le régime sans changer de forme. Les histoires du bandit débonnaire Rumcajs, par exemple, font partie des souvenirs
 d'enfance communs à toute une génération, bien au-delà des clivages
 politiques des parents.
 

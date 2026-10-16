@@ -13,4 +13,3 @@ région: Slovensky-raj
 + rieka: rivière
 + jaskyňa: grotte
 + raj: paradis
-~ Roklina = roklina, vodopád = vodopád, lávka = lávka, rebrík = rebrík, potok = potok, rieka = rieka, jaskyňa = jaskyňa a raj = raj.

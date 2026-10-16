@@ -12,4 +12,3 @@ région: Tatry
 + lanovka: téléphérique / remontée
 + vodopád: cascade
 + dolina: vallée
-~ Malý slovník: pleso = horské jazero, štít = vrch, sedlo = horské sedlo, chata = horská chata, lanovka = lanovka a vodopád = vodopád.
